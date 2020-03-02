@@ -1,0 +1,36 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "name": "Arturo Castañon",
+      "img": "",
+      "links": {
+        "website": "",
+        "linkedin": "",
+        "github": ""
+      },
+      "jobTitle": "",
+      "location": {
+        "city": "",
+        "state": "",
+        "country": ""
+      }
+    },
+    {
+      "id": 2,
+      "name": "Arturo Castañon 2",
+      "img": "",
+      "links": {
+        "website": "",
+        "linkedin": "",
+        "github": ""
+      },
+      "jobTitle": "",
+      "location": {
+        "city": "",
+        "state": "",
+        "country": ""
+      }
+    }
+  ]
+}
